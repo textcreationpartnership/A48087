@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from the Grand-Jury of Oxford to the London-Grand-Jury relating to the case of the Protestant-joyner.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48087</idno><idno type="EEBO-CITATION">15666658</idno>
+  <idno type="VID">104315</idno>
+  <idno type="EEBO-PROQUEST">2240878539</idno>
+  
+            <idno type="STC">Wing L1522</idno>
+            <idno type="STC">ESTC R36342</idno>
+            <idno type="OCLC">15666658</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104315)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from the Grand-Jury of Oxford to the London-Grand-Jury relating to the case of the Protestant-joyner.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>MDCXCV [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p. 2: Oxon, the 25 July, 1681. Your old Protestant friends, the Grand Jury of Oxford.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Colledge, Stephen, 1635?-1681.</term>
+               <term type="topical_term">Whig Party (Great Britain) --  Anecdotes</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:104315:1"/>
+            <head>A LETTER FROM THE <hi>Grand-Iury of Oxford</hi> TO THE London-Grand-Jury, Relating to the CASE of the Protestant-Joyner.</head>
+            <opener>
+               <salute>Gentlemne,</salute>
+            </opener>
+            <p>WE the <hi>Grand-Jury</hi> for the County of <hi>Oxon,</hi> send you Greeting, <hi>&amp;c.</hi> It is of very great trouble to us, to find our selves imposed upon by your neglect of Law and Justice; For had you duly and righteously considered your Oath, and the present Danger of the Kingdom. You could not have found <hi>Ignoramus</hi> to a Bill so fully proved against the <hi>Protestant Joyner,</hi> and consequently saved us Gentlemen the trouble to convince the World of your wilful mistake. For our parts, we do really believe from our Consciences, that Treasonable words tho' spoken by a <hi>Protestant Joyner,</hi> is <hi>Treason,</hi> tho' countenanced by all the <hi>True Protestants</hi> (so called) in the King<g ref="char:EOLhyphen"/>dom; But how (dear Friends) could you so mistake your selves? Why surely the <hi>Evidence</hi> that will hang a <hi>Popish Traytor,</hi> may serve well enough for a <hi>Prote<g ref="char:EOLhyphen"/>stant One;</hi> For 'tis not unknown to Us, that there are as deep <hi>Protestant Traytors,</hi> as <hi>Popish Ones,</hi> and the Danger to the King, and the Establish'd Government, are equally the same from them both; So that we much admite how you could salve the Reason and Dictates of your Consciences, in acquitting a notorious <hi>Tray<g ref="char:EOLhyphen"/>tor</hi> in a publick Court of Judicature; that had so abominably affronted Our Ex<g ref="char:EOLhyphen"/>cellent King, by such Words and Actions, in so many Seditious <hi>Coffee-houses,</hi> as would make any old Protestants heart to tremble; Yea, the very mentioning of his Trayterous Speeches stinks in the Nostrils of all Loyal and honest Christians.</p>
+            <p>Truth is, we much pity the late Lord Chief Justice <hi>Scroggs</hi> for the hard mea<g ref="char:EOLhyphen"/>sure he met with in the Case of <hi>Wakeman,</hi> what outcries was there then against him from your Zealous selves, because he faithfully sum'd up the <hi>Evidence</hi> to the Ju<g ref="char:EOLhyphen"/>ry, and directed them, that by Law no Man ought to die for Treason upon a single Testimony, Oh a <hi>Portugal Embassadour</hi> with Cuineys, Oh he was with the King such a day at <hi>Windsor,</hi> &amp;c. a fellow not fit to Live, what not hang such a Villain as <hi>Wakeman?</hi> and we well remember how the Good man was bespatter'd by the Zealous, and the Ignorant, and persecuted even to the door of the <hi>Commons House</hi> for doing Justice; And then again what a pother did you <hi>True Protestants</hi> make in the Case of <hi>Fitz-Harris?</hi> Why, he was to bring all to Light, yea, the very foundation of the <hi>Plot,</hi> and that when we remember took mightily with you, because he had not only accused <hi>King, Duke,</hi> and <hi>Queen</hi> of Treason a<g ref="char:EOLhyphen"/>gainst
+<pb n="2" facs="tcp:104315:2"/>themselves (pleasing things to the <hi>Mobile</hi>) but also could prove the death of <hi>Godfrey</hi> to a hairs breath; And yet after all this, the poor Rogue did not learn his Lesson so perfect during the conversation he had with his <hi>Protestant Visitants</hi> in <hi>Newgate,</hi> as to give satisfaction to any reasonable man at his Death, but rather the contrary; that what he had offer'd in Evidence, was the imper<g ref="char:EOLhyphen"/>fect information of his Zealous Visitants.</p>
+            <p>But Gentlmen, after this rate of proceeding, what do ye think will become of us, what settlement either in Church or State can there be expected? when professed <hi>Protestants</hi> shall thus prevaricate from the truth, and seem to be deli<g ref="char:EOLhyphen"/>vered over to believe lies; for our parts, we are persons of Fortunes and Estates, and hate to be byass'd by Opinion, or Party, but according to our Power and Knowledge have acted in the Case of this Villain, as becomes men of Honour and Conscience; so that we stand amazed at your proceeding in this Case; if you were congregated together by the great pollicy and contrivance of your <hi>Famous Northern Sheriff</hi> (for he is a man knows a black Sheep amongst 100 white ones) on purpose to acquit this poor Rascall, that's another matter; then indeed, the taking the Oath of <hi>Allegiance</hi> and <hi>Supremacy</hi> for the first course, the <hi>Covenant Engagment, Renunciaton of the Family of the Stuarts,</hi> and some other smaller Oaths for the second; and an Oath to oblige a <hi>Grand Jury</hi> to find acording to Evidence, <hi>&amp;c.</hi> for the third and last, may pass pretty well, in setting free a <hi>Treasonable Protestant Joyner;</hi> And 'tis all the reason in the World that such a <hi>Jury</hi> proceed according to their ancient and fundamental Principles.</p>
+            <p>Now Gentlemen, let us a little reason together; and herein we propose Three things to you.</p>
+            <list>
+               <item>1. <hi>Whether it were not much better for us all to unite in Brotherly Love and unity, then to seperate from each other, by Divisions, and Opinions and Parties▪</hi>
+               </item>
+               <item>2. <hi>Whether the peace and quiet of the Kingdom, the preservation of his Majesties Person, and Establish'd Religion and Government do not depend upon our obe<g ref="char:EOLhyphen"/>dience to the Laws of our Country, Love to our King, and maintaining the Establish'd Religion thereof?</hi>
+               </item>
+               <item>3. Whether there be more danger to the Crown and Government from Pa<g ref="char:EOLhyphen"/>pists, or Sectaries united, is a question easily decided: for both agree, and as it were hand in hand, drive on furiously, to destroy the M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urchy, and the Church; This we are sensible of, and would have you well consider on't, a<g ref="char:EOLhyphen"/>gainst the next Sessions; And we assure you, if you send us down again any such <hi>Protestant Trayterous Joyners,</hi> we will mark them with the same Carracter we have done the first.</item>
+            </list>
+            <p>Consider well Gentlemen, 'twas not many years since we smarted under a <hi>Hydra</hi> of Tyrants, let us not again delight in our Fetters and Chains, we live under a Government so gentle, and Laws so good, and a King so Indulgent to his Subjects, that 'tis a shame and reproach to our Nation, that any one Subject should have the least thought to seek after alterations; let no discon<g ref="char:EOLhyphen"/>tented old little weather-beaten Politians once more trepan you out of your peace and liberty; Let not the ill and nauseous scent of <hi>Protestant Coffee-houses,</hi> and <hi>Tavern Clubs,</hi> poyson your affections to the Establish'd Government; but with us lay your heads and hearts to work; put your helping hand to the support of thy Monarchy and Church, or else we Conclude it will all end in confusion, and evere evil work.</p>
+            <closer>
+               <dateline>
+                  <hi>Oxon</hi>
+                  <date>the 25 <hi>July,</hi> 1681.</date>
+               </dateline>
+               <signed>Your old Protestant Friends, the Grand Jury of <hi>Oxford.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Al. Banks,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
